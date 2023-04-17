@@ -1,0 +1,4 @@
+Aby uruchomić program należy:
+1. Pobrać go z repozytorium
+2. Za pomocą linii komend wejść do katalogu, w którym znajduje się plik main.py
+3. Za pomocą komendy "python main.py" uruchomić program.
